@@ -34,7 +34,7 @@ public class CafeJava {
             // ** Your customer interaction print statements will go here ** //
             System.out.println(customer1 + readyMessage + ".");
         } else {
-            System.out.println(displayTotalMessage + dripCoffee + pendingMessage + ".");
+            System.out.println(displayTotalMessage + mochaPrice + pendingMessage + ".");
         }
 
         // Sam
