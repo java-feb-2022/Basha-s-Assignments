@@ -3,6 +3,6 @@ public class MyJavaProgram {
         System.out.println("My name is Barbara aka Basha Taylor");
         System.out.println("I am 123 years old");
         System.out.println("My hometown is Southington, CT");
-        System.out.println("Java rocks!");
+        System.out.println("Reena rocks!");
     }
 }
