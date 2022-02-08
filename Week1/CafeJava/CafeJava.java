@@ -49,7 +49,7 @@ public class CafeJava {
         System.out.println(generalGreeting + customer3 + ".");
         if (isReadyOrder3) {
             System.out.println(
-                    customer3 + readyMessage + "." + " " + displayTotalMessage + " " + (lattePrice - dripCoffee) + ".");
+                    customer3 + readyMessage + "." + " " + displayTotalMessage + (lattePrice - dripCoffee) + ".");
         } else {
             System.out.println(customer3 + pendingMessage + ".");
         }
